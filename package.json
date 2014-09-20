@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "carom.js": "git://github.com/ishiduca/node-carom.js.git#master",
+    "tape": "^3.0.0"
+  },
+  "version": "0.0.1",
+  "name": "carom.js-middleware-domain",
+  "author": "ishiduca@gmail.com",
+  "license": "MIT",
+  "description": "carom.js middleware to use Domain structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --tap t/*.js"
+  }
+}
